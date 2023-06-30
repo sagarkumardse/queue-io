@@ -1,0 +1,5 @@
+# Ignoring editor configuration
+.vscode/
+
+# Ignoring semi-build roadmap
+./ROADMAP.md
