@@ -2,4 +2,4 @@
 .vscode/
 
 # Ignoring semi-build roadmap
-./ROADMAP.md
+ROADMAP.md
